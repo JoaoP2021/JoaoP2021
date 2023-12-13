@@ -1,10 +1,6 @@
 
 
 <p align="center">Hello everyone, I'm João Paulo and this is my Profile!</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaop2021&theme=radical&mode=weekly" />
- </div>
  
  &nbsp;
  &nbsp;
@@ -32,14 +28,6 @@
 
 &nbsp;
 &nbsp;
-
-## Contacts:
-
-<div>
-</a>
-<a href = "mailto:contato.jpbcastro95@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/joao-paulo-barbosa-de-castro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-</div>&nbsp;&nbsp;
  
 
   
